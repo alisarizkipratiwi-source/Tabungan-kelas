@@ -1,5 +1,6 @@
 // Utility Functions
 
+
 // Format angka ke Rupiah
 function formatRupiah(angka) {
     return new Intl.NumberFormat('id-ID', {
